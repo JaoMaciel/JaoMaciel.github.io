@@ -1,0 +1,28 @@
+body{
+    color:rgb(0, 0, 0);
+    background-color: rgba(0, 195, 255, 0.59);
+}
+
+ul{
+    display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+    align-items:center;
+    padding: 16px;
+    font-family: Arial,Helvetica, sans-serif;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+header img{
+    width: 150px;
+    height: 150px;
+}
+
+
+.center{
+    text-align: center;
+}
